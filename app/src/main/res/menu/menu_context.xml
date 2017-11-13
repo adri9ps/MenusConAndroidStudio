@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/op5"
+
+        android:icon="@android:drawable/star_big_on"
+        android:title="Opcion 5" />
+
+    <item
+        android:id="@+id/op6"
+        android:title="Opcion 6"
+        android:enabled="false"/>
+    <item
+        android:id="@+id/op7"
+        android:title="Opcion 7"
+        android:enabled="false"/>
+
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/op3"
+        android:icon="@android:drawable/star_on"
+
+        android:title="Opcion 3"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/op4"
+
+        android:icon="@android:drawable/star_big_on"
+        android:title="Opcion 4"
+        app:showAsAction="ifRoom" />
+
+</menu>
